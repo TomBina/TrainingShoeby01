@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29503.13
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LesBackEnd2020-1", "LesBackEnd2020-1\LesBackEnd2020-1.csproj", "{0F4ACDC7-871C-46CF-8F11-DCC619324C92}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TrainingShoeby01", "TrainingShoeby01\TrainingShoeby01.csproj", "{0F4ACDC7-871C-46CF-8F11-DCC619324C92}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
