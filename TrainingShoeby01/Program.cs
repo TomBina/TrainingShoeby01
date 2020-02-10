@@ -1,18 +1,14 @@
 ﻿using System;
 using System.Diagnostics;
+using TrainingShoeby01.GC;
 
-namespace LesBackEnd2020_1
+namespace TrainingShoeby01
 {
     class Program
     {
         static void Main(string[] args)
         {
-            ShowMessage();
-        }
-
-        private static void ShowMessage()
-        {
-            Console.WriteLine("Hello world");
+            GcExample.Gc();
         }
     }
 }
