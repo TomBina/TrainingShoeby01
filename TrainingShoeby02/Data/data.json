@@ -1,0 +1,17 @@
+﻿﻿[
+  {
+    "name": "Adidas Superstars",
+    "price": 40.00,
+    "stock": 2
+  },
+  {
+    "name": "Filling Pieces",
+    "price": 100.00,
+    "stock": 1
+  },
+  {
+    "name": "Nikes",
+    "price": 90.00,
+    "stock": 1
+  }
+]

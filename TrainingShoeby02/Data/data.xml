@@ -1,0 +1,18 @@
+﻿﻿<?xml version="1.0"?>
+<ArrayOfProduct xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <Product>
+        <Name>Adidas Superstars</Name>
+        <Price>40.00</Price>
+        <Stock>2</Stock>
+    </Product>
+    <Product>
+        <Name>Filling Pieces</Name>
+        <Price>100.00</Price>
+        <Stock>1</Stock>
+    </Product>
+    <Product>
+        <Name>Nikes</Name>
+        <Price>90.00</Price>
+        <Stock>1</Stock>
+    </Product>
+</ArrayOfProduct>
