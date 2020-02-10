@@ -3,13 +3,15 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29503.13
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TrainingShoeby01", "TrainingShoeby01\TrainingShoeby01.csproj", "{0F4ACDC7-871C-46CF-8F11-DCC619324C92}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TrainingShoeby01", "TrainingShoeby01\TrainingShoeby01.csproj", "{0F4ACDC7-871C-46CF-8F11-DCC619324C92}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TrainingShoeby02", "TrainingShoeby02\TrainingShoeby02.csproj", "{B5A01646-0750-4027-960F-14BED5B37CEF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TrainingShoeby02", "TrainingShoeby02\TrainingShoeby02.csproj", "{B5A01646-0750-4027-960F-14BED5B37CEF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TrainingShoeby03", "TrainingShoeby03\TrainingShoeby03.csproj", "{95D83590-C30F-440B-80EA-38F33D475B26}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TrainingShoeby03", "TrainingShoeby03\TrainingShoeby03.csproj", "{95D83590-C30F-440B-80EA-38F33D475B26}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TrainingShoeby04", "TrainingShoeby04\TrainingShoeby04.csproj", "{B2101F0A-4291-4634-B5BE-3D306EB8FF51}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TrainingShoeby04", "TrainingShoeby04\TrainingShoeby04.csproj", "{B2101F0A-4291-4634-B5BE-3D306EB8FF51}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TrainingShoeby05", "TrainingShoeby05\TrainingShoeby05.csproj", "{44C2EBDB-112C-4361-B72E-07C497B2576E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{B2101F0A-4291-4634-B5BE-3D306EB8FF51}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B2101F0A-4291-4634-B5BE-3D306EB8FF51}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B2101F0A-4291-4634-B5BE-3D306EB8FF51}.Release|Any CPU.Build.0 = Release|Any CPU
+		{44C2EBDB-112C-4361-B72E-07C497B2576E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{44C2EBDB-112C-4361-B72E-07C497B2576E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{44C2EBDB-112C-4361-B72E-07C497B2576E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{44C2EBDB-112C-4361-B72E-07C497B2576E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

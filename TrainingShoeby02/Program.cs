@@ -36,16 +36,16 @@ namespace TrainingShoeby02
 
             // Get the discount and instantiate orders
             var discount = GetDiscount(buyCount);
-            var orders = products.Aggregate(new List<Order>(), (orders, product) =>
+            var orders = products.Aggregate(new List<Order>(), (o, product) =>
             {
-                if (buyCount > orders.Count)
+                if (buyCount > o.Count)
                 {
                     var item = new Order()
                         {Product = product.Name, Price = product.Price * discount, Discount = discount};
-                    orders.Add(item);
+                    o.Add(item);
                 }
 
-                return orders;
+                return o;
             });
 
             ProcessOrder(orders);
